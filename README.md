@@ -1,3 +1,3 @@
 # Git-Flow-Init
 
-## th e flow
+## the flow
